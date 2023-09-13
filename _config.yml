@@ -1,6 +1,6 @@
-title: Infinitely stacked
-author: vivaan daga
-email: your-email@domain.com
+title: Infinitely Stacked
+author: Vivaan Daga
+email: vivaandaga@gmail.com
 description: 
 
 plugins:
@@ -19,9 +19,9 @@ header_pages:
 - github.md
 
 footer_icons:
-- username: Vivaan Daga
-  url: https://math.stackexchange.com/users/789929/vivaan-daga
-  icon: icon-mse.svg
+- username: 
+  url: 
+  icon: 
 
 paginate: 5
 
